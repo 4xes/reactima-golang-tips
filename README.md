@@ -47,9 +47,8 @@ Easy! Learn how to visualize it
 ![Regex](regex.png)
 
 ^\({0,1}((0|\+61)(2|4|3|7|8)){0,1}\){0,1}(\ |-){0,1}[0-9]{2}(\ |-){0,1}[0-9]{2}(\ |-){0,1}[0-9]{1}(\ |-){0,1}[0-9]{3}$
-
-* https://regexper.com/
-* https://regex101.com/
+* RegExper, https://regexper.com/ Ex: https://goo.gl/tqNCSv
+* Regex101, https://regex101.com/
 
 #### Interview check-lists and recommended reading 
 * An introduction to distributed systems, https://github.com/aphyr/distsys-class
