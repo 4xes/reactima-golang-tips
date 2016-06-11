@@ -28,6 +28,20 @@ https://s3-ap-southeast-1.amazonaws.com/mylekha-ebook/IT+%26+Programming/Network
 Secure it! XSS, CSRF, CORS, JWT, etc
 http://jwt.io 
 
+#### Algorithmic thinking and experience
+* Algorithm Visualizer, http://jasonpark.me/AlgorithmVisualizer/#path=graph_search/dfs/tree
+* Algorithms and Data Structures for Golang, https://github.com/0xAX/go-algorithms
+* Algorithms and Data Structures in Python , https://www.youtube.com/playlist?list=PLsJ_X8XMWFjOfvMXk7HsZYr8vUwYVxTQM
+
+#### Linux 
+Look at this! It was built by large community over the past 20 years and has a lot of great, well-optimized libraries. There is no need to reinvent everything in Golang.  
+![Linux Perfomance Tools](linux.jpg)
+
+Learn/refresh bash and basic shell commands first however
+* Bash in Y minutes, https://learnxinyminutes.com/docs/bash/
+* Shell commands explanation, http://explainshell.com/
+* Linux Command Shell For Beginners http://vic.gedris.org/Manual-ShellIntro/1.2/ShellIntro.pdf
+
 #### Regexp
 Easy! Learn how to visualize it
 ![Regex](regex.png)
@@ -37,15 +51,6 @@ Easy! Learn how to visualize it
 https://goo.gl/
 http://regexr.com/
 https://regex101.com/
-
-#### Algorithmic thinking and experience
-* Algorithm Visualizer, http://jasonpark.me/AlgorithmVisualizer/#path=graph_search/dfs/tree
-* Algorithms and Data Structures for Golang, https://github.com/0xAX/go-algorithms
-* Algorithms and Data Structures in Python , https://www.youtube.com/playlist?list=PLsJ_X8XMWFjOfvMXk7HsZYr8vUwYVxTQM
-
-#### Linux 
-Look at this! It was built by large community over the past 20 years and has a lot of great, well-optimized libraries. There is no need to reinvent everything in Golang.  
-![Linux Perfomance Tools](linux.jpg)
 
 #### Interview check-lists and recommended reading 
 * An introduction to distributed systems, https://github.com/aphyr/distsys-class
