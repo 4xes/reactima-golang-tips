@@ -3,8 +3,8 @@
 You hit this page cause you want to be ready for high profile Golang job interview or need to structure your interview questions.  
 
 Golang is a great language for building modern web-applications based on micro-services architecture. Easy to start. Extremely convenient from DevOps perspective.  
-https://golang.org/
-https://gobyexample.com/
+* https://golang.org/
+* https://gobyexample.com/
 
 If it's so easy to start how is it possible for great companies to distinguish average developer from great one? What kind of knowledge make difference if you are building services for the top internet companies like Facebook, Twitter, Google?
 
